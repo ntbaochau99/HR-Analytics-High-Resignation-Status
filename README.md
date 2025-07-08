@@ -6,7 +6,9 @@
 
 **Responsibilities:**
 •	Analyzed HR data to explore patterns in employee resignations; conducted preprocessing, mining, and visualization.
+
 •	Investigated rising resignation trends and identified key drivers using workforce metrics.
+
 •	Developed interactive dashboards and delivered actionable recommendations to improve retention and workplace quality.
 
 **Analytics Tools:** SQL Server, Python, Power BI
