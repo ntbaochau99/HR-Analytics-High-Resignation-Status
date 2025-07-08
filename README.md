@@ -1,1 +1,3 @@
 # HR-Analytics-High-Resignation-Status
+
+Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmQ4YzkxMTctMjViNy00ODhmLTk5NzctZmQyZWRiYWU2MGZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
